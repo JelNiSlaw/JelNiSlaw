@@ -1,6 +1,6 @@
 # Hi!
 
-[Contact me](https://t.me/JelNiSlaw) on [Telegram](https://telegram.org/)
+Contact me on [Telegram](https://t.me/JelNiSlaw)
 
 ![](https://komarev.com/ghpvc/?username=JelNiSlaw&color=orange&style=flat-square&label=pointless%20increasing%20number)
 ![](https://hit.yhype.me/github/profile?user_id=25802745)
